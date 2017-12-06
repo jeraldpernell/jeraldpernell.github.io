@@ -1,0 +1,419 @@
+@charset "UTF-8";
+
+.top_bar_2_png {
+  background-image: url("images/top_bar_2.png");
+  position: absolute;
+  left: 0px;
+  top: 56px;
+  width: 1200px;
+  height: 89px;
+  z-index: 164;
+}
+
+.icons_png {
+  background-image: url(images/icons.png);
+  position: absolute;
+  left: 950px;
+  top: 10px;
+  width: 99px;
+  height: 23px;
+  z-index: 161;
+}
+.blueberry {
+  background-image: url("images/blueberry.jpg");
+  position: absolute;
+  left: 126px;
+  top: 326px;
+  width: 300px;
+  height: 275px;
+  z-index: 15;
+}
+
+
+.raspberry {
+  background-image: url("images/raspberry.jpg");
+  position: absolute;
+  left: 453px;
+  top: 326px;
+  width: 300px;
+  height: 275px;
+  z-index: 16;
+}
+
+.carrot_muffin_copy {
+  background-image: url("images/carrot_muffin copy.jpg");
+  position: absolute;
+  left: 770px;
+  top: 326px;
+  width: 300px;
+  height: 275px;
+  z-index: 21;
+}
+
+.buttercream_copy {
+  background-image: url("images/buttercream_copy.jpg");
+  position: absolute;
+  left: 130px;
+  top: 1006px;
+  width: 300px;
+  height: 275px;
+  z-index: 13;
+}
+
+.grape {
+  background-image: url("images/grape.jpg");
+  position: absolute;
+  left: 450px;
+  top: 1006px;
+  width: 300px;
+  height: 275px;
+  z-index: 17;
+}
+
+.Chocolate_Strawberry_copy {
+  background-image: url("images/Chocolate_Strawberry_copy.jpg");
+  position: absolute;
+  left: 770px;
+  top: 1006px;
+  width: 300px;
+  height: 275px;
+  z-index: 19;
+}
+
+.Chocolate_Cinnamon {
+  background-image: url("images/Chocolate_Cinnamon.jpg");
+  position: absolute;
+  left: 130px;
+  top: 1338px;
+  width: 300px;
+  height: 275px;
+  z-index: 14;
+}
+
+.chocolatenut {
+  background-image: url("images/chocolatenut.jpg");
+  position: absolute;
+  left: 450px;
+  top: 1338px;
+  width: 300px;
+  height: 275px;
+  z-index: 18;
+}
+
+.chocolatewfrosting {
+  background-image: url(images/chocolatewfrosting.jpg);
+  position: absolute;
+  left: 770px;
+  top: 1338px;
+  width: 300px;
+  height: 275px;
+  z-index: 20;
+}
+
+p1 {
+  font-size: 16px;
+  font-family: "Rockwell";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.563;
+  text-align: center;
+  position: absolute;
+  left: 386.429px;
+  top: 750.113px;
+  width: 391px;
+  height: 38px;
+  z-index: 27;
+}
+
+
+
+
+
+
+p12
+{
+  font-size: 20px;
+  font-family: "Rockwell", serif;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.25;
+  text-align: left;
+  position: absolute;
+  left: 60px;
+  top: 88px;
+  z-index: 166;
+}
+
+p12 a{
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+p12 a:hover{
+	color: #3B1B09;
+}
+p13 
+{
+  font-size: 20px;
+  font-family: "Rockwell";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.25;
+  position: absolute;
+ 	left: 240px;
+  top: 88px;
+  z-index: 166;
+	
+ 
+}
+p13 a{
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+p13 a:hover{
+	color: #3B1B09;
+}
+
+p14
+{
+  font-size: 20px;
+  font-family: "Rockwell";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.25;
+  position: absolute;
+  left: 769px;
+  top: 88px;
+  width: 90px;
+  height: 15px;
+  z-index: 166;
+}
+p14 a{
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+p14 a:hover{
+	color: #3B1B09;
+}
+p15
+{
+  font-size: 20px;
+  font-family: "Rockwell";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.25;
+  position: absolute;
+  left: 1000px;
+  top: 88px;
+  width: 90px;
+  height: 15px;
+  z-index: 167;
+}
+p15 a{
+	color:#FFFFFF;
+	text-decoration: none;
+}
+
+p15 a:hover{
+	color: #3B1B09;
+}
+
+p16
+{
+  font-size: 27px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: bold;
+  line-height: 0.926;
+  text-align: left;
+  position: absolute;
+  left: 125.683px;
+  top: 280.566px;
+  width: 292px;
+  height: 21px;
+  z-index: 22;
+}
+
+p17
+{
+  font-size: 27px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: bold;
+  line-height: 0.926;
+  text-align: left;
+  position: absolute;
+  left: 130px;
+  top: 969.566px;
+  width: 281px;
+  height: 21px;
+  z-index: 23;
+}
+
+p18
+{
+  font-size: 35px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: bold;
+  line-height: 0.926;
+  text-align: left;
+  position: absolute;
+  left: 518px;
+  top: 204px;
+  width: 115px;
+  height: 20px;
+  z-index: 28;
+}
+
+p19 {
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 240px;
+  top: 620.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 29;
+}
+
+p20
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 560px;
+  top: 620.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 32;
+}
+
+p21
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 890px;
+  top: 620.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 36;
+}
+
+p22
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 235px;
+  top: 1300.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 30;
+}
+
+p23
+ {
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 575px;
+  top: 1300.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 33;
+}
+
+p24
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 875px;
+  top: 1300.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 37;
+}
+
+p25
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 190px;
+  top: 1648.302px;
+  width: 200px;
+  height: 25px;
+  z-index: 31;
+}
+
+p26
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 540px;
+  top: 1648.302px;
+  width: 132px;
+  height: 25px;
+  z-index: 34;
+}
+
+p27
+{
+  font-size: 18px;
+  font-family: "Rockwell";
+  color: rgb(101, 71, 55);
+  font-weight: normal;
+  line-height: 1;
+  position: absolute;
+  left: 830px;
+  top: 1648.302px;
+  width: 250px;
+  height: 25px;
+  z-index: 38;
+}
+
+
+
+
+
+
+
+.Rectangle_9_copy {
+  background-color: rgb(101, 71, 55);
+  position: absolute;
+  left: -3px;
+  top: 655px;
+  width: 1205px;
+  height: 230px;
+  z-index: 14;
+}
